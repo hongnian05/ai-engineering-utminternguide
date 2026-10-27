@@ -2,6 +2,8 @@
 
 > Delivers instant, document-grounded guidance to UTM undergraduate students regarding industrial training eligibility, application procedures, logbook compliance, and regulations, strictly grounded in official university handbooks.
 
+**Author:** Chua Hong Nian (`hongnian05`) | **Course:** SAIA3113 AI Engineering (Semester Project) | **Institution:** Universiti Teknologi Malaysia (UTM)
+
 ---
 
 ## Problem Statement

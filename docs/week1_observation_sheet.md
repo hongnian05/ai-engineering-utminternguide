@@ -9,9 +9,9 @@ Save as: `docs/week1_observation_sheet.md`
 
 ---
 
-### Group Members
-- [Student Name / Group Members]
-- Course: SAIA3113 AI Engineering (Semester Project)
+### Student / Group Members
+- Chua Hong Nian (`hongnian05`)
+- Course: SAIA3113 AI Engineering — Semester Project
 
 ---
 

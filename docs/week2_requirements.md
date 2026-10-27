@@ -1,7 +1,7 @@
 # Requirements Specification — UTM-InternGuide
 **Version:** 1.0  
 **Application Name:** UTM-InternGuide (AI-Powered Student Internship Information & Compliance Assistant)  
-**Author:** Hong Kian (`hongnian05`)  
+**Author:** Chua Hong Nian (`hongnian05`)  
 **Course:** SAIA3113 AI Engineering — Semester Project  
 
 ---

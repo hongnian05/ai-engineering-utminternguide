@@ -1,6 +1,9 @@
 # Semester Project Scoping Document — Week 1
 
-Save as: `docs/week1_project_scope.md`
+**Application Name:** UTM-InternGuide (AI-Powered Student Internship Information & Compliance Assistant)  
+**Author:** Chua Hong Nian (`hongnian05`)  
+**Course:** SAIA3113 AI Engineering — Semester Project  
+**Repository:** [ai-engineering-utminternguide](https://github.com/hongnian05/ai-engineering-utminternguide)  
 
 ---
 
