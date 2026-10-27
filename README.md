@@ -59,7 +59,11 @@ ai-engineering-utminternguide/
 ├── docs/                              # Engineering documentation and lab deliverables
 │   ├── week1_observation_sheet.md     # Topic 1 Part A: AI system observation report
 │   ├── week1_system_map.png           # Topic 1 Part B: Conceptual AI system map diagram
-│   └── week1_project_scope.md         # Topic 1 Part C: Detailed project scoping document
+│   ├── week1_project_scope.md         # Topic 1 Part C: Detailed project scoping document
+│   ├── week2_requirements.md          # Topic 2 Part A: Project framing, scope, FRs, NFRs & RAI
+│   ├── week2_evaluation_criteria.md   # Topic 2 Part B: Evaluation criteria table & benchmark design
+│   ├── week2_architecture_v1.png      # Topic 2 Part C: V1 system architecture diagram (300 DPI)
+│   └── week2_architecture_decisions.md# Topic 2 Part C: ADRs, trade-offs & Traceability Matrix (RTM)
 ├── data/                              # Raw and processed official policy documents (untracked/gitkeep)
 │   └── .gitkeep
 ├── src/                               # Application source code (RAG pipeline, retrieval, guardrails)
@@ -78,7 +82,7 @@ ai-engineering-utminternguide/
 | Week | Focus | Deliverable | Status |
 |:---:|:---|:---|:---:|
 | **W1** | System map + project scope | README + docs | ✅ |
-| **W2** | Requirements, Architecture & Evaluation Criteria | Requirements Specification | ⏳ Pending |
+| **W2** | Requirements, Architecture & Evaluation Criteria | Requirements, Evaluation Benchmarks, V1 Architecture & ADRs | ✅ |
 | **W3** | Data Ingestion & Document Chunking | Data Pipeline Scripts | ⏳ Pending |
 | **W4** | Vector Embeddings & Retrieval | Vector Store Setup | ⏳ Pending |
 | **W5** | Prompt Engineering & RAG Generation | Pipeline Integration | ⏳ Pending |
