@@ -1,0 +1,52 @@
+UNIVERSITI TEKNOLOGI MALAYSIA
+FACULTY OF COMPUTING
+UNDERGRADUATE INDUSTRIAL TRAINING HANDBOOK & GUIDELINES
+ACADEMIC SESSION 2023/2024
+
+SECTION 1: INTRODUCTION AND PROGRAMME OVERVIEW
+The Industrial Training Programme (Course Code: SECR4178 / SECJ4178 / SECV4178 / SECB4178 / SECD4178) is a mandatory graduation requirement for all Bachelor of Computer Science undergraduate students at the Faculty of Computing, Universiti Teknologi Malaysia. The duration of the training is twenty (20) weeks during the designated semester. The course carries twelve (12) credit hours and is evaluated on a Pass/Fail (Lulus/Gagal) basis contributing to graduation credits.
+
+The primary objective of industrial training is to immerse students in real-world corporate and technical computing environments, allowing them to bridge theoretical knowledge in software engineering, data engineering, cybersecurity, bioinformatics, and multimedia software with industry standards, corporate workflows, professional ethics, and project management best practices.
+
+SECTION 2: STUDENT ELIGIBILITY CRITERIA AND PREREQUISITES
+To qualify for registration and placement in the Industrial Training programme, an undergraduate candidate must strictly fulfill the following prerequisite conditions prior to the commencement semester:
+
+1. Accumulated Credit Threshold: The student must have completed and accumulated a minimum of eighty (80) credit hours of academic courses within their respective programme curriculum.
+2. Academic Standing: The student must hold an active academic status of Good Standing (Kedudukan Baik, KB) with a Cumulative Grade Point Average (CGPA) of at least 2.00 at the time of application and registration. Students under Conditional Standing (Kedudukan Bersyarat, KS) are strictly prohibited from undergoing industrial training until their academic standing is restored to KB.
+3. Compulsory Core Subjects: The student must have completed and passed all Year 1 and Year 2 core computing faculty subjects, including Data Structures and Algorithms, Object-Oriented Programming, Database Systems, and System Analysis and Design.
+4. Professional Skills Training: Mandatory attendance at the Faculty Industrial Training Preparation Briefing and Completion of the Career Readiness Workshop organized by the UTM Career Centre.
+
+SECTION 3: PLACEMENT PROCEDURES AND PRISMS APPLICATION WORKFLOW
+The application and placement workflow is administered digitally via the Practical Training Information System (PRISMS):
+
+Step 1 - Application Submission: Students must identify and apply to verified companies through the PRISMS system or submit a formal self-search company application with full company profile documentation.
+Step 2 - Company Qualification: The prospective host organisation must be a legally registered business (SSM registered) or public agency with an established technical computing, software, IT, or data division capable of providing qualified technical mentorship.
+Step 3 - Offer Letter and Acceptance: Upon receiving an official offer letter from the host company, the student must upload the offer letter and job scope description to PRISMS within seven (7) working days.
+Step 4 - Faculty Approval: The Faculty Industrial Training Coordinator reviews and approves or rejects the company placement based on technical relevance of the proposed job scope.
+Step 5 - Indemnity and Insurance: Prior to reporting to the organization, students must submit the Signed Parent/Guardian Indemnity Form and verify coverage under the UTM Group Personal Accident (GPA) Insurance scheme.
+
+SECTION 4: EVALUATION SCHEME AND ASSESSMENT WEIGHTAGE
+The Industrial Training course is evaluated continuously throughout the 20-week placement. Assessment is divided among three key evaluators:
+
+1. Industrial Supervisor Assessment (Host Company): 40% Weightage
+   - Assesses technical competency, task execution, problem-solving ability, punctuality, professional conduct, teamwork, and overall workplace contribution.
+2. Faculty Visiting Lecturer Assessment (Academic Supervisor): 30% Weightage
+   - Assesses the student presentation, demonstration of project deliverables, portfolio review, and host supervisor interview conducted during the mandatory industrial monitoring visit (virtual or physical).
+3. Faculty Industrial Training Committee Assessment: 30% Weightage
+   - Assesses the bi-weekly digital logbook submissions (10%) and the comprehensive Final Industrial Training Technical Report (20%) formatted in accordance with the Faculty Thesis Manual.
+
+Grading Standard: To obtain a Pass (Lulus) grade, a student must secure an overall aggregated mark of at least sixty percent (60%) and achieve at least 50% in each individual assessment component.
+
+SECTION 5: BI-WEEKLY LOGBOOK SUBMISSION REQUIREMENTS
+Students must maintain a structured digital logbook detailing daily technical activities, project milestones, code repositories, frameworks utilized, and lessons learned.
+
+1. Submission Schedule: Logbook entries must be submitted every two (2) weeks on the PRISMS system. Late submissions without prior coordinator approval incur a deduction of 10% per week from the logbook component mark.
+2. Employer Verification: The host company industrial supervisor must review, sign, and endorse the bi-weekly entries at the conclusion of each two-week cycle.
+3. Content Standards: Entries must be descriptive and professional. Generic statements such as 'did coding' or 'attended meetings' are deemed non-compliant and will be rejected by the visiting lecturer.
+
+SECTION 6: CODE OF CONDUCT, DISCIPLINE, AND WORKPLACE SAFETY
+Students undergoing industrial training remain subject to the Universiti Teknologi Malaysia Student Disciplinary Rules (Act 174).
+
+1. Confidentiality: Students must respect host company proprietary data and adhere to executed Non-Disclosure Agreements (NDAs). Company intellectual property must not be published in public repositories.
+2. Workplace Safety and Health: Host companies must provide safe, non-hazardous working environments complying with OSHA regulations.
+3. Workplace Grievance and Distress Escalation: In the event of workplace harassment, severe discrimination, unpaid allowance disputes, or unsafe conditions, the student must immediately contact the Faculty Industrial Training Coordinator (it_coord@comp.utm.my / +607-5538888) and the UTM Student Counselling Centre. The faculty reserves the right to terminate placements and relocate students where safety is compromised.

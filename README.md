@@ -65,12 +65,21 @@ ai-engineering-utminternguide/
 │   ├── week2_requirements.md          # Topic 2 Part A: Project framing, scope, FRs, NFRs & RAI
 │   ├── week2_evaluation_criteria.md   # Topic 2 Part B: Evaluation criteria table & benchmark design
 │   ├── week2_architecture_v1.png      # Topic 2 Part C: V1 system architecture diagram (300 DPI)
-│   └── week2_architecture_decisions.md# Topic 2 Part C: ADRs, trade-offs & Traceability Matrix (RTM)
-├── data/                              # Raw and processed official policy documents (untracked/gitkeep)
-│   └── .gitkeep
+│   ├── week2_architecture_decisions.md# Topic 2 Part C: ADRs, trade-offs & Traceability Matrix (RTM)
+│   ├── week3_data_inventory.md        # Topic 3 Part A: Data source inventory, rights & inspection
+│   ├── week3_pipeline_diagram.png     # Topic 3 Part C: Executed V1 data pipeline diagram (300 DPI)
+│   └── week3_pipeline_decisions.md    # Topic 3 Part C: Pipeline stage contracts, trade-offs & lineage
+├── data/                              # Data engineering pipeline storage & provenance
+│   ├── raw/                           # Original immutable source documents (.txt / .pdf)
+│   ├── processed/                     # Part B prepared chunk records (prepared_text.jsonl)
+│   ├── pipeline_v1/                   # Part C executable pipeline outputs & manifests
+│   │   └── documents/
+│   │       ├── prepared_text.jsonl
+│   │       └── pipeline_manifest.json
+│   └── week3_manifest.json            # Part B SHA-256 lineage manifest
+├── notebooks/                         # Executable Colab notebooks
+│   └── week3_pipeline.ipynb           # Topic 3 Executable V1 Data Pipeline (Cells 1-9)
 ├── src/                               # Application source code (RAG pipeline, retrieval, guardrails)
-│   └── .gitkeep
-├── notebooks/                         # Experimental prototyping & data exploration notebooks
 │   └── .gitkeep
 ├── evaluation/                        # Evaluation benchmarks, test datasets, and metric scripts
 │   └── .gitkeep
@@ -85,7 +94,7 @@ ai-engineering-utminternguide/
 |:---:|:---|:---|:---:|
 | **W1** | System map + project scope | README + docs | ✅ |
 | **W2** | Requirements, Architecture & Evaluation Criteria | Requirements, Evaluation Benchmarks, V1 Architecture & ADRs | ✅ |
-| **W3** | Data Ingestion & Document Chunking | Data Pipeline Scripts | ⏳ Pending |
+| **W3** | Data Ingestion & Document Chunking | Executable V1 Data Pipeline, Data Inventory, Pipeline Diagram & Lineage Manifest | ✅ |
 | **W4** | Vector Embeddings & Retrieval | Vector Store Setup | ⏳ Pending |
 | **W5** | Prompt Engineering & RAG Generation | Pipeline Integration | ⏳ Pending |
 | **W6** | Guardrails & Safety Controls | Safety Layer Evaluation | ⏳ Pending |

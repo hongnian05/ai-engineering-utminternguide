@@ -1,0 +1,17 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-04T17:35:00.383590+00:00",
+  "records": [
+    {
+      "source_id": "S01",
+      "source_filename": "utm_fc_industrial_training_handbook_2023_2024.txt",
+      "source_sha256": "5343b935e6fbac4e522da76485d1b6e4976c1699eb4b1aba3b84b13debded1de",
+      "prepared_output": "data\\processed\\prepared_text.jsonl",
+      "prepared_sha256": "b6a454cc865b18e42c07deba866293c14718fb29fecc5a042a85b43ac8591e04",
+      "processing_note": "paragraph-aware-char-500",
+      "source_version": "Session 2023/2024",
+      "access_rights": "Publicly accessible university handbook",
+      "status": "Prepared; quality review pending"
+    }
+  ]
+}

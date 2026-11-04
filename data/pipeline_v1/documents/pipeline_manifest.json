@@ -1,0 +1,41 @@
+{
+  "pipeline_version": "week3-v1",
+  "generated_at_utc": "2026-11-04T17:35:00.385872+00:00",
+  "data_type": "documents",
+  "configuration": {
+    "chunk_size": 500,
+    "method": "paragraph-aware"
+  },
+  "processing_method": "paragraph-aware text chunks of 500 characters",
+  "sources": [
+    {
+      "path": "data\\raw\\utm_fc_industrial_training_handbook_2023_2024.txt",
+      "sha256": "5343b935e6fbac4e522da76485d1b6e4976c1699eb4b1aba3b84b13debded1de"
+    }
+  ],
+  "outputs": [
+    "data\\pipeline_v1\\documents\\prepared_text.jsonl"
+  ],
+  "source_output_mapping": [
+    {
+      "source": "data\\raw\\utm_fc_industrial_training_handbook_2023_2024.txt",
+      "output": "data\\pipeline_v1\\documents\\prepared_text.jsonl"
+    }
+  ],
+  "inspection": {
+    "source": "utm_fc_industrial_training_handbook_2023_2024.txt",
+    "characters": 6495,
+    "pages": null
+  },
+  "validation": {
+    "output_count": 1,
+    "output_sha256": [
+      "dcc8c6e07e26261202ba89dd2e738fac8798fd5e1bceb5ca63e0b9b50b80dc2e"
+    ],
+    "output_bytes": [
+      8841
+    ]
+  },
+  "source_version": "Session 2023/2024",
+  "access_rights": "Publicly accessible university handbook"
+}
