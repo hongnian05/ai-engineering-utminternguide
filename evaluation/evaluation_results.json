@@ -1,0 +1,618 @@
+{
+  "evaluated_at_utc": "2026-11-20T18:01:59.132149+00:00",
+  "total_test_cases": 20,
+  "metrics": {
+    "mean_retrieval_precision_at_3": 0.8889,
+    "mean_retrieval_recall_at_5": 1.0,
+    "answer_correctness_rate": 0.95,
+    "answer_groundedness_rate": 1.0,
+    "citation_correctness_rate": 1.0,
+    "citation_completeness_rate": 1.0,
+    "faculty_isolation_pass_rate": 1.0,
+    "mean_latency_ms": 4.26,
+    "p90_latency_ms": 5.63
+  },
+  "results": [
+    {
+      "id": "Q01",
+      "category": "1. Internship eligibility",
+      "question": "What is the university-wide minimum earned credit percentage required to register for Industrial Training under the 2024 UTM guideline?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [
+        "UTM-UGS-2024-001"
+      ],
+      "expected_section_hint": "2.7",
+      "expected_page": 6,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.58,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "UTM-REG-ED16-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001"
+      ],
+      "retrieval_precision_at_3": 0.667,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 0.5,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (University-Wide):**\n2.9.11 Pindah kredit LI\n\n**Key Details from Verified Documents:**\n- (a) Pindah Kredit untuk LI adalah tidak dibenarkan memandangkan\n- Beban Kredit Semester Biasa: Minimum dua belas (12) kredit dan maksimum lapan belas (18) kredit bagi semester biasa.\n- Pendaftaran Kursus Latihan Industri: Kursus Latihan Industri didaftarkan pada semester yang ditetapkan dalam struktur kurikulum program.\n\n**Sources & Citations:"
+    },
+    {
+      "id": "Q02",
+      "category": "2. Credit requirements",
+      "question": "How many credit hours do I need before applying for industrial training in the Faculty of Computing?",
+      "relevant_faculty": "Faculty of Computing",
+      "expected_sources": [
+        "FC-REPO-2023-001"
+      ],
+      "expected_section_hint": "SECTION 2",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.81,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Computing):**\nAccumulated Credit Threshold: The student must have completed and accumulated a minimum of eighty (80) credit hours of academic courses within their respective programme curriculum.\n\n**Key Details from Verified Documents:**\n- The Industrial Training Programme (Course Code: SECR4178 / SECJ4178 / SECV4178 / SECB4178 / SECD4178) is a mandatory graduation requirement for all Bachelor of Computer Science under"
+    },
+    {
+      "id": "Q03",
+      "category": "2. Credit requirements",
+      "question": "What are the eligibility and minimum credit requirements for FKT industrial training?",
+      "relevant_faculty": "Faculty of Chemical and Energy Engineering",
+      "expected_sources": [
+        "FKT-WEB-001"
+      ],
+      "expected_section_hint": "General",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.12,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "FKT-WEB-001",
+        "UTM-REG-ED16-001",
+        "FKT-WEB-001",
+        "UTM-FKT-2012-001"
+      ],
+      "retrieval_precision_at_3": 0.333,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 0.0,
+      "answer_correct": false,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Chemical and Energy Engineering):**\n2.7.1 Pelajar dibenarkan mendaftar LI setelah memenuhi syarat berikut:\n\n**Key Details from Verified Documents:**\n- Pelajar wajib memenuhi prasyarat lulus sekurang-kurangnya 80 jam kredit dan berstatus Kedudukan Baik (KB).\n- Pendaftaran Kursus Bersama Latihan Industri: Pelajar tidak dibenarkan mendaftar kursus akademik lain secara serentak semasa menjalani Latihan Industri kecuali den"
+    },
+    {
+      "id": "Q04",
+      "category": "2. Credit requirements",
+      "question": "What is the minimum total credit requirement for Civil Engineering industrial training?",
+      "relevant_faculty": "Faculty of Civil Engineering",
+      "expected_sources": [
+        "CIVIL-GUIDE-2017-001"
+      ],
+      "expected_section_hint": "General",
+      "expected_page": 12,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.09,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "CIVIL-GUIDE-2017-001",
+        "CIVIL-GUIDE-2017-001",
+        "CIVIL-GUIDE-2017-001",
+        "CIVIL-GUIDE-2017-001",
+        "CIVIL-GUIDE-2017-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Civil Engineering):**\nCheck Student Qualification Direct entry students can apply for exemption if they have minimum ONE year working experience in civil engineering A Yes 3.\n\n**Key Details from Verified Documents:**\n- Total Credit (Credit Earned + Credit\n- civil engineering\n- First Briefing Qualification: Week 12 Total Credit (Credit Earned + Credit (Semester 1) Transfer + Current Credit) ≥ 99 and CPA > 2.00 2.\n\n**Sou"
+    },
+    {
+      "id": "Q05",
+      "category": "3. CGPA and academic standing",
+      "question": "What is the minimum CGPA for Kedudukan Baik (KB) and can a Kedudukan Bersyarat (KS) student register for industrial training?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [
+        "UTM-REG-ED16-001"
+      ],
+      "expected_section_hint": "BAHAGIAN 2",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.2,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-REG-ED16-001",
+        "UTM-REG-ED16-001",
+        "UTM-REG-ED16-001",
+        "FKE-ITS-MS-2024-001",
+        "FKE-ITS-MS-2024-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (University-Wide):**\nKedudukan Baik (KB): Pelajar memperoleh PNGK 2.00 atau ke atas.\n\n**Key Details from Verified Documents:**\n- Kedudukan Bersyarat (KS): Pelajar memperoleh PNGK antara 1.70 hingga 1.99.\n- Pelajar berstatus KB layak meneruskan pengajian dan mendaftar kursus semester berikutnya termasuk Kursus Latihan Industri.\n- Pelajar KS tidak dibenarkan mendaftar kursus Latihan Industri.\n\n**Sources & Citations:**\n1. **Buku Pera"
+    },
+    {
+      "id": "Q06",
+      "category": "4. Internship duration",
+      "question": "How many weeks is the compulsory MJIIT industrial training duration?",
+      "relevant_faculty": "Malaysia-Japan International Institute of Technology",
+      "expected_sources": [
+        "MJIIT-GUIDE-2015-001"
+      ],
+      "expected_section_hint": "1.",
+      "expected_page": 2,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.66,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Malaysia-Japan International Institute of Technology):**\n1.1 It is compulsory for every MJIIT undergraduate student to undergo Industrial Training for 12 weeks under\n\n**Key Details from Verified Documents:**\n- The industrial training period is TWELVE (12) weeks.\n- The marks distribution for overall evaluation of the IT for the 12 weeks period is shown\n- ACCREDITATION MANUAL 2012 specifies that industrial training shall be for a m"
+    },
+    {
+      "id": "Q07",
+      "category": "4. Internship duration",
+      "question": "How many weeks is the Faculty of Computing industrial training and how many credit hours does it carry?",
+      "relevant_faculty": "Faculty of Computing",
+      "expected_sources": [
+        "FC-REPO-2023-001"
+      ],
+      "expected_section_hint": "SECTION 1",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.52,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Computing):**\nThe Industrial Training Programme (Course Code: SECR4178 / SECJ4178 / SECV4178 / SECB4178 / SECD4178) is a mandatory graduation requirement for all Bachelor of Computer Science undergraduate students at the Faculty of Computing, Universiti Teknologi Malaysia.\n\n**Key Details from Verified Documents:**\n- The duration of the training is twenty (20) weeks during the designated semester.\n- The course carries t"
+    },
+    {
+      "id": "Q08",
+      "category": "5. Application procedures",
+      "question": "What happens in FKE ITS if a company does not reply to an industrial training application after 3 weeks?",
+      "relevant_faculty": "Faculty of Electrical Engineering",
+      "expected_sources": [
+        "FKE-BRIEF-1-2017"
+      ],
+      "expected_section_hint": "General",
+      "expected_page": 6,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.97,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FKE-BRIEF-1-2017",
+        "FKE-BRIEF-1-2017",
+        "FKE-FORM-001",
+        "FKE-WEB-001",
+        "FKE-BRIEF-1-2017"
+      ],
+      "retrieval_precision_at_3": 0.667,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 0.5,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Electrical Engineering):**\n- Company does not reply after 3 weeks\n\n**Key Details from Verified Documents:**\n- ◊If the company is NOT in the database, you need\n- PERMOHONAN CADANGAN SYARIKAT BARU LATIHAN INDUSTRI\n- - Status in ITS changed to ‘Accepted’.\n\n**Sources & Citations:**\n1. **FKE LI Briefing Part I (SKE* 4926 — Semester III 2017/2018)**\n   - **Scope:** Faculty of Electrical Engineering\n   - **Section:** General "
+    },
+    {
+      "id": "Q09",
+      "category": "6. ITS usage",
+      "question": "How do I access the @studentportal ITS system and do I need UTM VPN?",
+      "relevant_faculty": "Faculty of Mechanical Engineering",
+      "expected_sources": [
+        "FKM-ITS-2023-001",
+        "FKE-ITS-MS-2024-001"
+      ],
+      "expected_section_hint": "General",
+      "expected_page": 2,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.0,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FKM-ITS-2023-001",
+        "FKM-ITS-2023-001",
+        "FKM-ITS-2023-001",
+        "FKM-ITS-2023-001",
+        "FKM-ITS-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 0.5,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Mechanical Engineering):**\nNo VPN access\n\n**Key Details from Verified Documents:**\n- @studentportal\n- through the system.\n- Access is made easy via MyUTM\n\n**Sources & Citations:**\n1. **Portal Usage Guideline for Industrial Training @studentportal ITS (English, Dec 2023)**\n   - **Scope:** Faculty of Mechanical Engineering\n   - **Section:** General / Overview | **Page:** Page 1\n   - **Version / Session:** December 2023 E"
+    },
+    {
+      "id": "Q10",
+      "category": "7. Industrial placement",
+      "question": "Can I change my industrial training company after receiving placement approval?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001"
+      ],
+      "expected_section_hint": "2.8",
+      "expected_page": 7,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 2.92,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (University-Wide):**\n(viii) Tidak memburukkan industri/organisasi tempat LI.\n\n**Key Details from Verified Documents:**\n- 2.8.7 Pelajar tidak dibenarkan bertukar tempat LI kecuali dengan kebenaran\n- Pelajar boleh memohon pertukaran tempat LI yang baharu untuk\n- 2.14 Pelanggaran Peraturan Industri/Organisasi LI\n\n**Sources & Citations:**\n1. **Garis Panduan Latihan Industri Program Sarjana Muda Universiti Teknologi Malaysia (2024)**\n "
+    },
+    {
+      "id": "Q11",
+      "category": "8. Insurance",
+      "question": "What insurance coverage applies to MJIIT students undergoing industrial training in Malaysia or Japan?",
+      "relevant_faculty": "Malaysia-Japan International Institute of Technology",
+      "expected_sources": [
+        "MJIIT-GUIDE-2015-001"
+      ],
+      "expected_section_hint": "7.0",
+      "expected_page": 4,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.66,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Malaysia-Japan International Institute of Technology):**\nMalaysia) or Mitsui Sumitomo Insurance (Japan).\n\n**Key Details from Verified Documents:**\n- 12 weeks in Industry in Malaysia.\n- 12 weeks in Industry in Japan.\n- Offer IT programmes for MJIIT’s students that conform to MJIIT’s requirements and\n\n**Sources & Citations:**\n1. **MJIIT Industrial Training Guidebook (As a Reference for Organization, 2015)**\n   - **Scope:** Malaysia"
+    },
+    {
+      "id": "Q12",
+      "category": "9. Report requirements",
+      "question": "In what language must the MJIIT industrial training report be written and when must it be submitted?",
+      "relevant_faculty": "Malaysia-Japan International Institute of Technology",
+      "expected_sources": [
+        "MJIIT-GUIDE-2015-001"
+      ],
+      "expected_section_hint": "7.0",
+      "expected_page": 4,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.29,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001",
+        "MJIIT-GUIDE-2015-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Malaysia-Japan International Institute of Technology):**\nThe report must be written in English and should be submitted within two weeks of the last\n\n**Key Details from Verified Documents:**\n- The IT report will be evaluated by the MJIIT Faculty Supervisor.\n- The IT report should conform to the MJIIT undergraduate research thesis or dissertation format with\n- The contents and the distribution of marks of the IT report will be eval"
+    },
+    {
+      "id": "Q13",
+      "category": "10. Logbook assessment",
+      "question": "How often must Faculty of Computing students submit their digital logbook and what is the late submission penalty?",
+      "relevant_faculty": "Faculty of Computing",
+      "expected_sources": [
+        "FC-REPO-2023-001"
+      ],
+      "expected_section_hint": "SECTION 5",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 5.32,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Computing):**\nSECTION 5: BI-WEEKLY LOGBOOK SUBMISSION REQUIREMENTS\n\n**Key Details from Verified Documents:**\n- - Assesses the bi-weekly digital logbook submissions (10%) and the comprehensive Final Industrial Training Technical Report (20%) formatted in accordance with the Faculty Thesis Manual.\n- Late submissions without prior coordinator approval incur a deduction of 10% per week from the logbook component mark.\n- Em"
+    },
+    {
+      "id": "Q14",
+      "category": "11. Assessment weightages",
+      "question": "What is the assessment weightage breakdown for Faculty of Computing industrial training?",
+      "relevant_faculty": "Faculty of Computing",
+      "expected_sources": [
+        "FC-REPO-2023-001"
+      ],
+      "expected_section_hint": "SECTION 4",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 4.31,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Faculty of Computing):**\nSECTION 4: EVALUATION SCHEME AND ASSESSMENT WEIGHTAGE\n\n**Key Details from Verified Documents:**\n- Assessment is divided among three key evaluators:\n- Industrial Supervisor Assessment (Host Company): 40% Weightage\n- Faculty Visiting Lecturer Assessment (Academic Supervisor): 30% Weightage\n\n**Sources & Citations:**\n1. **UTM Faculty of Computing Undergraduate Industrial Training Handbook & Guidelines (Repo E"
+    },
+    {
+      "id": "Q15",
+      "category": "12. Faculty-specific clarification",
+      "question": "How many credit hours do I need before applying for industrial training?",
+      "relevant_faculty": null,
+      "expected_sources": [
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001",
+        "UTM-REG-ED16-001"
+      ],
+      "expected_section_hint": "2.7",
+      "expected_page": null,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 3.55,
+      "abstained": false,
+      "needs_faculty_clarification": true,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "UTM-REG-ED16-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Faculty Clarification Needed:**\nExact industrial training requirements (such as minimum credit hours, CGPA thresholds, duration, and assessment weightages) **vary by UTM faculty** (e.g., Faculty of Computing, FKT, FKE, Civil Engineering, MJIIT, FKM). **Please specify your faculty** for faculty-specific rules.\n\n**University-Wide Baseline (from verified UTM documents):**\n2.9.11 Pindah kredit LI\n\n**Key Details from Verified Documents:**\n- (a) Pind"
+    },
+    {
+      "id": "Q16",
+      "category": "13. Conflicting documents (Credit transfer)",
+      "question": "Is credit transfer (pindah kredit) permitted for Industrial Training under the 2024 UTM Senate Guideline?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [
+        "UTM-UGS-2024-001"
+      ],
+      "expected_section_hint": "2.9",
+      "expected_page": 10,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 5.71,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001",
+        "UTM-REG-ED16-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001"
+      ],
+      "retrieval_precision_at_3": 0.333,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (University-Wide):**\n2.9.11 Pindah kredit LI\n\n**Key Details from Verified Documents:**\n- (a) Pindah Kredit untuk LI adalah tidak dibenarkan memandangkan\n- 10.10 Pengecualian kredit bagi LI\n- kredit LI dengan syarat:\n\n> **Version Notice:** One or more retrieved references are from a **historical or superseded edition** (e.g., 2012 Senate Guideline or 2017/2018 faculty briefing). Please verify current-session details with your Facul"
+    },
+    {
+      "id": "Q17",
+      "category": "14. Outdated information",
+      "question": "When was the historical GarisPanduanLI.pdf approved by the UTM Senate compared to the 2024 guideline?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001"
+      ],
+      "expected_section_hint": "General",
+      "expected_page": 4,
+      "mode": "local_extractive_grounded_rag",
+      "latency_ms": 5.0,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001",
+        "UTM-FKT-2012-001",
+        "UTM-UGS-2024-001",
+        "UTM-UGS-2024-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (University-Wide):**\n| 1 | 30/4/2024 | Senat Universiti Teknologi Malaysia | 15/2/2012 |\n\n**Key Details from Verified Documents:**\n- Manual Garis Panduan Latihan Industri ini hendaklah digunakan bagi\n- Disahkan oleh Senat Universiti Teknologi Malaysia pada 15 Februari 2012\n- | No | Tarikh | Diluluskan oleh | Pindaan |\n\n> **Version Notice:** One or more retrieved references are from a **historical or superseded edition** (e.g., 201"
+    },
+    {
+      "id": "Q18",
+      "category": "15. Unanswerable / Out-of-knowledge-base",
+      "question": "What is the exact monthly internship salary paid by Petronas to UTM interns in 2027?",
+      "relevant_faculty": "University-Wide",
+      "expected_sources": [],
+      "expected_section_hint": null,
+      "expected_page": null,
+      "mode": "abstention_insufficient_evidence",
+      "latency_ms": 4.69,
+      "abstained": true,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "UTM-UGS-2025-002",
+        "UTM-UGS-2025-002",
+        "UTM-UGS-2025-002",
+        "UTM-UGS-2025-002",
+        "UTM-UGS-2025-002"
+      ],
+      "retrieval_precision_at_3": null,
+      "retrieval_recall_at_5": null,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": null,
+      "citation_complete": null,
+      "actual_answer_preview": "**Direct Answer:**\nThis information is **not available in the current verified UTM documents** in my knowledge base.\n\n**Explanation:**\n- No retrieved document section met the minimum evidence relevance threshold for your question.\n- To avoid guessing or providing inaccurate academic requirements, please confirm directly with your **Faculty Industrial Training Coordinator** or the **UTM School of Undergraduate Studies (UGS)**."
+    },
+    {
+      "id": "Q19",
+      "category": "15. Out-of-scope refusal",
+      "question": "Can you draft a legal contract for me to sue my company and recommend a good stock market investment?",
+      "relevant_faculty": null,
+      "expected_sources": [],
+      "expected_section_hint": null,
+      "expected_page": null,
+      "mode": "guardrail_out_of_scope",
+      "latency_ms": 5.63,
+      "abstained": true,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FKE-BRIEF-1-2017",
+        "UTM-UGS-2024-001",
+        "FKE-WEB-001",
+        "CIVIL-GUIDE-2017-001",
+        "FKE-WEB-001"
+      ],
+      "retrieval_precision_at_3": null,
+      "retrieval_recall_at_5": null,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": null,
+      "citation_complete": null,
+      "actual_answer_preview": "**Direct Answer (Out of Scope):**\nI am **UTM-InternGuide**, an assistant strictly limited to Universiti Teknologi Malaysia (UTM) undergraduate Industrial Training (Latihan Industri) policies, procedures, and compliance.\n\nI cannot assist with out-of-scope legal, medical, financial, or general non-internship requests, nor can I autonomously approve waivers or placements. Please consult the appropriate professional or contact your **Faculty Industri"
+    },
+    {
+      "id": "Q20",
+      "category": "15. Safety / Workplace distress escalation",
+      "question": "I am facing severe workplace harassment and unsafe working conditions during my internship. What should I do?",
+      "relevant_faculty": "Faculty of Computing",
+      "expected_sources": [
+        "FC-REPO-2023-001"
+      ],
+      "expected_section_hint": "SECTION 6",
+      "expected_page": null,
+      "mode": "guardrail_distress_escalation",
+      "latency_ms": 5.21,
+      "abstained": false,
+      "needs_faculty_clarification": false,
+      "retrieved_sources_top5": [
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001",
+        "FC-REPO-2023-001"
+      ],
+      "retrieval_precision_at_3": 1.0,
+      "retrieval_recall_at_5": 1.0,
+      "keyword_match_ratio": 1.0,
+      "answer_correct": true,
+      "answer_grounded": true,
+      "citation_correct": true,
+      "citation_complete": true,
+      "actual_answer_preview": "**Direct Answer (Official Workplace Safety & Grievance Escalation):**\nIf you are experiencing workplace harassment, discrimination, unsafe working conditions, or serious workplace grievances during your industrial training, please escalate immediately through official UTM channels rather than handling it alone:\n\n- **Faculty Industrial Training Coordinator:** Contact your faculty coordinator immediately (for Faculty of Computing: `it_coord@comp.ut"
+    }
+  ]
+}

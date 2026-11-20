@@ -77,3 +77,10 @@ data/
 
 * **Data Safety & PDPA Compliance:** All documents in `data/raw/` contain public university policies and regulatory statutes. No student names, matriculation numbers, or confidential industrial agreements are stored or processed.
 * **Lineage Tracking:** Every prepared chunk is cryptographically linked back to its raw source file via SHA-256 hashes recorded in `week3_manifest.json`.
+
+
+---
+
+## V2 Data Inventory Erratum & Expansion Note (Updated 2026-11-21)
+* **Week 3 Audit Erratum:** The Week 3 audit (`docs/project_audit.md`) identified that `S02` (`utm_academic_regulations_edisi_16.txt`) was omitted from `data/week3_manifest.json` and `prepared_text.jsonl`, and that both `S01` and `S02` in `data/raw/` were local excerpts rather than full official PDFs.
+* **V2 Resolution:** Both `S01` and `S02` are now indexed alongside **13 newly downloaded official UTM documents** across UGS, FKT, FKE, Civil Engineering, MJIIT, and FKM (15 indexed sources total, 406 validated chunks). See the authoritative V2 inventory in [`docs/data_source_inventory.md`](data_source_inventory.md) and [`data/source_registry.json`](../data/source_registry.json).

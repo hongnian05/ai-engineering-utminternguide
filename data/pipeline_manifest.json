@@ -1,0 +1,182 @@
+{
+  "pipeline_version": "v2.0-multi-faculty-rag",
+  "generated_at_utc": "2026-11-20T18:00:29.329124+00:00",
+  "total_sources_processed": 15,
+  "total_chunks_exported": 406,
+  "prepared_output_path": "data\\processed\\prepared_text.jsonl",
+  "prepared_output_sha256": "5a6acfb42d189e86aa7e1f166dd34cbd76bd147cf4346228cc92ddd7e2fc1244",
+  "vector_store_summary": {
+    "total_vectors": 406,
+    "vector_dim": 48667,
+    "built_at_utc": "2026-11-20T18:00:29.205371+00:00",
+    "sources_indexed": [
+      "CIVIL-GUIDE-2017-001",
+      "FC-REPO-2023-001",
+      "FKE-BRIEF-1-2017",
+      "FKE-BRIEF-2-2018",
+      "FKE-FORM-001",
+      "FKE-ITS-MS-2024-001",
+      "FKE-WEB-001",
+      "FKM-ITS-2023-001",
+      "FKM-WEB-001",
+      "FKT-WEB-001",
+      "MJIIT-GUIDE-2015-001",
+      "UTM-FKT-2012-001",
+      "UTM-REG-ED16-001",
+      "UTM-UGS-2024-001",
+      "UTM-UGS-2025-002"
+    ]
+  },
+  "sources": [
+    {
+      "source_id": "UTM-UGS-2024-001",
+      "document_title": "Garis Panduan Latihan Industri Program Sarjana Muda Universiti Teknologi Malaysia (2024)",
+      "faculty": "University-Wide",
+      "relative_path": "data/raw/ugs/Final-Garis-Panduan-LI-UTM-2024-Senat.pdf",
+      "source_sha256": "7e515dc9170713a25ee0e6ea6ef0ed6123f1e0d787c260f28d45a2b4be04514c",
+      "pages_extracted": 20,
+      "chunks_produced": 84,
+      "document_version": "2024 Senate Edition (Supersedes 2012 Edition)"
+    },
+    {
+      "source_id": "UTM-UGS-2025-002",
+      "document_title": "Terms of Reference (ToR) — UTM International Internship Program (2025)",
+      "faculty": "University-Wide",
+      "relative_path": "data/raw/ugs/TERMS-OF-REFERENCE-ToR-–-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf",
+      "source_sha256": "28854a1920b0e669f5590f091d00e00e19d9c7c428e1b302cc3425766ae1067b",
+      "pages_extracted": 17,
+      "chunks_produced": 20,
+      "document_version": "2025 ToR Edition"
+    },
+    {
+      "source_id": "UTM-FKT-2012-001",
+      "document_title": "Garis Panduan Latihan Industri UTM (2012 Senate Edition, hosted by FKT)",
+      "faculty": "University-Wide",
+      "relative_path": "data/raw/fkt/GarisPanduanLI.pdf",
+      "source_sha256": "7edca28f7787ad72d6600ca094c3c6b853c7204ad045388bbda7844e747291e0",
+      "pages_extracted": 16,
+      "chunks_produced": 47,
+      "document_version": "2012 Senate Edition (Historical / Superseded)"
+    },
+    {
+      "source_id": "FKT-WEB-001",
+      "document_title": "FKT Industrial Training Resources & FAQ Webpage",
+      "faculty": "Faculty of Chemical and Energy Engineering",
+      "relative_path": "data/raw/fkt/fkt_li_resources.txt",
+      "source_sha256": "42c3210e967117ca35978fe7fc5730f30de391599d9a194d3f46e7c5164ed9e6",
+      "pages_extracted": 1,
+      "chunks_produced": 3,
+      "document_version": "Web Snapshot 2026-11-21"
+    },
+    {
+      "source_id": "CIVIL-GUIDE-2017-001",
+      "document_title": "Industrial Training Guidelines for Undergraduate Programme (Faculty of Civil Engineering, 7th Edition)",
+      "faculty": "Faculty of Civil Engineering",
+      "relative_path": "data/raw/civil/Guide-Book-Version-7th-2017-reduced-size.pdf",
+      "source_sha256": "027440772b24cc1ea68122d394eb5ca9f89a62e54555eff4f2ebfda810c9445f",
+      "pages_extracted": 36,
+      "chunks_produced": 96,
+      "document_version": "7th Edition (2017)"
+    },
+    {
+      "source_id": "MJIIT-GUIDE-2015-001",
+      "document_title": "MJIIT Industrial Training Guidebook (As a Reference for Organization, 2015)",
+      "faculty": "Malaysia-Japan International Institute of Technology",
+      "relative_path": "data/raw/mjiit/IT-GUIDEBOOK.pdf",
+      "source_sha256": "317091d2c03c1297bad67662c3c446dbf9f5f5e9e7e856d502a2060301473f9a",
+      "pages_extracted": 6,
+      "chunks_produced": 27,
+      "document_version": "2015 Edition"
+    },
+    {
+      "source_id": "FKM-ITS-2023-001",
+      "document_title": "Portal Usage Guideline for Industrial Training @studentportal ITS (English, Dec 2023)",
+      "faculty": "Faculty of Mechanical Engineering",
+      "relative_path": "data/raw/fkm/manual_its_pelajar_dis2023-english.pdf",
+      "source_sha256": "58c5f46f11968b25821a0a4c3de3333eb65fd96cabb9f18f39c4380e32086bec",
+      "pages_extracted": 21,
+      "chunks_produced": 27,
+      "document_version": "December 2023 English Manual"
+    },
+    {
+      "source_id": "FKM-WEB-001",
+      "document_title": "FKM Industrial Training Portal Webpage",
+      "faculty": "Faculty of Mechanical Engineering",
+      "relative_path": "data/raw/fkm/fkm_industrial_training.txt",
+      "source_sha256": "8220e5bd0360af3d25d787014d6c7899725c68017cfccc84ea9e16e3f6d456b1",
+      "pages_extracted": 1,
+      "chunks_produced": 1,
+      "document_version": "Web Snapshot 2026-11-21"
+    },
+    {
+      "source_id": "FKE-WEB-001",
+      "document_title": "FKE Industrial Training (Latihan Industri) Portal Webpage",
+      "faculty": "Faculty of Electrical Engineering",
+      "relative_path": "data/raw/fke/fke_li_portal.txt",
+      "source_sha256": "2b80ebfffde4129a51be3419fa59538dae61d922cf8a2f1c0384807a9ae35045",
+      "pages_extracted": 1,
+      "chunks_produced": 17,
+      "document_version": "Web Snapshot 2026-11-21"
+    },
+    {
+      "source_id": "FKE-ITS-MS-2024-001",
+      "document_title": "Panduan Pengguna Bagi Latihan Industri @studentportal ITS (Bahasa Melayu)",
+      "faculty": "University-Wide",
+      "relative_path": "data/raw/fke/Manual-Pelajar-malay.pdf",
+      "source_sha256": "2c7bf1075859204b33a3933f1887ae47101ff3c3f52357084007a7226494a9da",
+      "pages_extracted": 21,
+      "chunks_produced": 24,
+      "document_version": "2024 Bahasa Melayu Manual"
+    },
+    {
+      "source_id": "FKE-BRIEF-1-2017",
+      "document_title": "FKE LI Briefing Part I (SKE* 4926 — Semester III 2017/2018)",
+      "faculty": "Faculty of Electrical Engineering",
+      "relative_path": "data/raw/fke/Taklimat-LI-Part-I-5-Dec-2017.pdf",
+      "source_sha256": "4d1df5b64fa7db1bb976905c2c4f5a75689fcd9382e6283bf1472d02dae21c2b",
+      "pages_extracted": 12,
+      "chunks_produced": 13,
+      "document_version": "Part I Briefing (Dec 2017)"
+    },
+    {
+      "source_id": "FKE-BRIEF-2-2018",
+      "document_title": "FKE LI Briefing Part II (SKE* 4926 — Semester III 2017/2018)",
+      "faculty": "Faculty of Electrical Engineering",
+      "relative_path": "data/raw/fke/Taklimat-LI-Part-II-22-May-2018.pdf",
+      "source_sha256": "ae1fab0761847aa9df1762ad26553b23d21eaa0a357b5176c45a5591e6067098",
+      "pages_extracted": 15,
+      "chunks_produced": 18,
+      "document_version": "Part II Briefing (May 2018)"
+    },
+    {
+      "source_id": "FKE-FORM-001",
+      "document_title": "Permohonan Cadangan Syarikat Baru Latihan Industri (Application of Potential Company Form)",
+      "faculty": "Faculty of Electrical Engineering",
+      "relative_path": "data/raw/fke/1.-Application-of-Potential-Company-for-Industrial-Training.pdf",
+      "source_sha256": "58e2573d4c51f30ead9501a58504fc887eef738775217b9939d31a2f0333000b",
+      "pages_extracted": 3,
+      "chunks_produced": 10,
+      "document_version": "Official Form"
+    },
+    {
+      "source_id": "FC-REPO-2023-001",
+      "document_title": "UTM Faculty of Computing Undergraduate Industrial Training Handbook & Guidelines (Repo Excerpt, 2023/2024)",
+      "faculty": "Faculty of Computing",
+      "relative_path": "data/raw/utm_fc_industrial_training_handbook_2023_2024.txt",
+      "source_sha256": "5343b935e6fbac4e522da76485d1b6e4976c1699eb4b1aba3b84b13debded1de",
+      "pages_extracted": 1,
+      "chunks_produced": 13,
+      "document_version": "2023/2024 (Local Excerpt — Pending Full Official FC PDF Verification)"
+    },
+    {
+      "source_id": "UTM-REG-ED16-001",
+      "document_title": "Buku Peraturan Akademik Program Sarjana Muda Pengajian Sepenuh Masa (Edisi Ke-16, Repo Excerpt)",
+      "faculty": "University-Wide",
+      "relative_path": "data/raw/utm_academic_regulations_edisi_16.txt",
+      "source_sha256": "822c127e8a7dffd131a1dd57528f73419ccb183f422bd8a6e2d538035394407a",
+      "pages_extracted": 1,
+      "chunks_produced": 6,
+      "document_version": "Edisi Ke-16 (Local Excerpt)"
+    }
+  ]
+}

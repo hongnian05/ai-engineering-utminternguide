@@ -1,0 +1,393 @@
+{
+  "collected_at_utc": "2026-11-20T17:48:30.984445+00:00",
+  "web_pages": [
+    {
+      "id": "WEB-UGS-001",
+      "faculty_dir": "ugs",
+      "faculty": "University-Wide (School of Undergraduate Studies)",
+      "url": "https://ugs.utm.my/industrial-training-li/",
+      "filename": "ugs_industrial_training_li.html",
+      "text_filename": "ugs_industrial_training_li.txt",
+      "status_code": 200,
+      "final_url": "https://ugs.utm.my/industrial-training-li/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "INDUSTRIAL TRAINING (LI) | School of Undergraduate Studies",
+      "html_bytes": 190764,
+      "text_chars": 348,
+      "sha256_text": "d8d0eddcd985ebfefe380f54608169fbbffd2d332245485b45273378d95780c4",
+      "saved_text_path": "data\\raw\\ugs\\ugs_industrial_training_li.txt",
+      "pdf_links_found": [
+        {
+          "text": "",
+          "url": "https://ugs.utm.my/wp-content/uploads/sites/8/2024/11/Final-Garis-Panduan-LI-UTM-2024-Senat.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://ugs.utm.my/wp-content/uploads/sites/8/2025/04/TERMS-OF-REFERENCE-ToR-–-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "id": "WEB-FKT-001",
+      "faculty_dir": "fkt",
+      "faculty": "Faculty of Chemical and Energy Engineering",
+      "url": "https://fkt.utm.my/li/resources/",
+      "filename": "fkt_li_resources.html",
+      "text_filename": "fkt_li_resources.txt",
+      "status_code": 200,
+      "final_url": "https://fkt.utm.my/li/resources/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "Resources | Industrial Training",
+      "html_bytes": 149079,
+      "text_chars": 1816,
+      "sha256_text": "42c3210e967117ca35978fe7fc5730f30de391599d9a194d3f46e7c5164ed9e6",
+      "saved_text_path": "data\\raw\\fkt\\fkt_li_resources.txt",
+      "pdf_links_found": [
+        {
+          "text": "Download",
+          "url": "https://fkt.utm.my/li/wp-content/uploads/sites/216/2022/09/GarisPanduanLI.pdf"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "id": "WEB-FKE-001",
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "url": "https://fke.utm.my/li/",
+      "filename": "fke_li_portal.html",
+      "text_filename": "fke_li_portal.txt",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/li/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "Latihan Industri | Faculty of Electrical Engineering UTM",
+      "html_bytes": 261072,
+      "text_chars": 15718,
+      "sha256_text": "2b80ebfffde4129a51be3419fa59538dae61d922cf8a2f1c0384807a9ae35045",
+      "saved_text_path": "data\\raw\\fke\\fke_li_portal.txt",
+      "pdf_links_found": [
+        {
+          "text": "EAC STANDARD",
+          "url": "https://eac.org.my/v2/wp-content/uploads/2024/08/Engineering-Programme-Accreditation-Standard-2024.pdf"
+        },
+        {
+          "text": "MQA (MQF2.0)",
+          "url": "https://www.mqa.gov.my/new/document/2024/new/MQF%20(2024).pdf"
+        },
+        {
+          "text": "[English]",
+          "url": "https://fke.utm.my/wp-content/uploads/2024/03/Student-Manual-english.pdf"
+        },
+        {
+          "text": "[Malay]",
+          "url": "https://fke.utm.my/wp-content/uploads/2024/03/Manual-Pelajar-malay.pdf"
+        },
+        {
+          "text": "PK-UTM-FKE-(O)-11",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/PK-UTM-FKE-O-11.pdf"
+        },
+        {
+          "text": "PK-UTM-FKE-(O)-12",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/PK-UTM-FKE-O-12.pdf"
+        },
+        {
+          "text": "New Company Proposal Application (Latest)",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/04/1.-Application-of-Potential-Company-for-Industrial-Training.pdf"
+        },
+        {
+          "text": "LTR01",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/LTR01-Application-Letter.pdf"
+        },
+        {
+          "text": "FKE-LP1A",
+          "url": "https://fke.utm.my/wp-content/uploads/2024/01/Reply-form-FKE-LP1A.pdf"
+        },
+        {
+          "text": "FKE-LP4A (2022)",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/SKE-LP4A.pdf"
+        },
+        {
+          "text": "MS01",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/LI-Planning-Procedure_6Jun2013.pdf"
+        },
+        {
+          "text": "MS02",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-I-5-Dec-2017.pdf"
+        },
+        {
+          "text": "MS03",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-II-22-May-2018.pdf"
+        },
+        {
+          "text": "MS05",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/MS05-Carta-Alir-Lawatan-Penyelia-Fakulti-16173.pdf"
+        },
+        {
+          "text": "MS06",
+          "url": "https://fke.utm.my/wp-content/uploads/2023/02/THESIS-GUIDELINES-070819.pdf"
+        }
+      ],
+      "status": "downloaded"
+    },
+    {
+      "id": "WEB-FKM-001",
+      "faculty_dir": "fkm",
+      "faculty": "Faculty of Mechanical Engineering",
+      "url": "https://mech.utm.my/industrial-training-fkm/",
+      "filename": "fkm_industrial_training.html",
+      "text_filename": "fkm_industrial_training.txt",
+      "status_code": 200,
+      "final_url": "https://mech.utm.my/industrial-training-fkm/",
+      "content_type": "text/html; charset=UTF-8",
+      "page_title": "Industrial Training @ FKM |",
+      "html_bytes": 173680,
+      "text_chars": 664,
+      "sha256_text": "8220e5bd0360af3d25d787014d6c7899725c68017cfccc84ea9e16e3f6d456b1",
+      "saved_text_path": "data\\raw\\fkm\\fkm_industrial_training.txt",
+      "pdf_links_found": [
+        {
+          "text": "Briefing Internship FKM ( Phase 1 )",
+          "url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/06/BRIEFING-LI-2nd-Sesi-20252026-Phase-1-20Mei2026.pdf"
+        },
+        {
+          "text": "Briefing Internship FKM ( Phase 2 )",
+          "url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/07/Briefing-LI-PHASE2-14JULY2026-RevE.pdf"
+        },
+        {
+          "text": "Guide Book Industrial Training for Student",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/08/GUIDE-BOOK-LI-STUDENT-2026.pdf"
+        },
+        {
+          "text": "Manual ITS 2023",
+          "url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/06/manual_its_pelajar_dis2023-english.pdf"
+        },
+        {
+          "text": "Requirement for Internship FKM",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/09/Prerequisite-Course-for-Internship-LI-FKM.pdf"
+        },
+        {
+          "text": "ITS Manual for Company SV",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/11/ITS-Manual-for-Company-Supervisor-19.3.2025.pptx.pdf"
+        },
+        {
+          "text": "Manual Log Book Verification for Company SV Internship using MyAIMS – ITS System UTM",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/10/Manual-for-Log-book-Verification-by-Company-SV-in-ITS-System-UTM-2026.pdf"
+        },
+        {
+          "text": "Application Form",
+          "url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/07/INDUSTRIAL-TRAINING-APPLICATION-FORM-20252026-3.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/10/GUIDE-BOOK-INTERNSHIP-UTM-2026-FOR-COMPANIES.pdf"
+        },
+        {
+          "text": "",
+          "url": "https://mech.utm.my/industrial-training-fkm/wp-content/uploads/sites/245/2026/10/INTERNSHIP-UTM-GUIDE-BOOKS-FOR-STUDENTS.pdf"
+        }
+      ],
+      "status": "downloaded"
+    }
+  ],
+  "direct_pdfs": [
+    {
+      "id": "PDF-UTM-001",
+      "faculty_dir": "fkt",
+      "faculty": "University-Wide (hosted by FKT)",
+      "url": "https://fkt.utm.my/li/wp-content/uploads/sites/216/2022/09/GarisPanduanLI.pdf",
+      "filename": "GarisPanduanLI.pdf",
+      "status_code": 200,
+      "final_url": "https://fkt.utm.my/li/wp-content/uploads/sites/216/2022/09/GarisPanduanLI.pdf",
+      "content_type": "application/pdf",
+      "bytes": 379993,
+      "sha256": "7edca28f7787ad72d6600ca094c3c6b853c7204ad045388bbda7844e747291e0",
+      "saved_path": "data\\raw\\fkt\\GarisPanduanLI.pdf",
+      "status": "downloaded"
+    },
+    {
+      "id": "PDF-CIVIL-001",
+      "faculty_dir": "civil",
+      "faculty": "Faculty of Civil Engineering",
+      "url": "https://civil.utm.my/spaceska/wp-content/blogs.dir/2494/files/2021/07/Guide-Book-Version-7th-2017-reduced-size.pdf",
+      "filename": "Guide-Book-Version-7th-2017-reduced-size.pdf",
+      "status_code": 200,
+      "final_url": "https://civil.utm.my/spaceska/wp-content/blogs.dir/2494/files/2021/07/Guide-Book-Version-7th-2017-reduced-size.pdf",
+      "content_type": "application/pdf",
+      "bytes": 5109595,
+      "sha256": "027440772b24cc1ea68122d394eb5ca9f89a62e54555eff4f2ebfda810c9445f",
+      "saved_path": "data\\raw\\civil\\Guide-Book-Version-7th-2017-reduced-size.pdf",
+      "status": "downloaded"
+    },
+    {
+      "id": "PDF-MJIIT-001",
+      "faculty_dir": "mjiit",
+      "faculty": "Malaysia-Japan International Institute of Technology",
+      "url": "https://mjiit.utm.my/wp-content/uploads/2015/05/IT-GUIDEBOOK.pdf",
+      "filename": "IT-GUIDEBOOK.pdf",
+      "status_code": 200,
+      "final_url": "https://mjiit.utm.my/wp-content/uploads/2015/05/IT-GUIDEBOOK.pdf",
+      "content_type": "application/pdf",
+      "bytes": 362033,
+      "sha256": "317091d2c03c1297bad67662c3c446dbf9f5f5e9e7e856d502a2060301473f9a",
+      "saved_path": "data\\raw\\mjiit\\IT-GUIDEBOOK.pdf",
+      "status": "downloaded"
+    },
+    {
+      "id": "PDF-FKM-001",
+      "faculty_dir": "fkm",
+      "faculty": "Faculty of Mechanical Engineering",
+      "url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/06/manual_its_pelajar_dis2023-english.pdf",
+      "filename": "manual_its_pelajar_dis2023-english.pdf",
+      "status_code": 200,
+      "final_url": "https://mech.utm.my/idustrial-training-fkm/wp-content/uploads/sites/245/2026/06/manual_its_pelajar_dis2023-english.pdf",
+      "content_type": "application/pdf",
+      "bytes": 1856294,
+      "sha256": "58c5f46f11968b25821a0a4c3de3333eb65fd96cabb9f18f39c4380e32086bec",
+      "saved_path": "data\\raw\\fkm\\manual_its_pelajar_dis2023-english.pdf",
+      "status": "downloaded"
+    }
+  ],
+  "discovered_pdfs": [
+    {
+      "faculty_dir": "ugs",
+      "faculty": "University-Wide (School of Undergraduate Studies)",
+      "link_text": "",
+      "url": "https://ugs.utm.my/wp-content/uploads/sites/8/2024/11/Final-Garis-Panduan-LI-UTM-2024-Senat.pdf",
+      "filename": "Final-Garis-Panduan-LI-UTM-2024-Senat.pdf",
+      "status_code": 200,
+      "final_url": "https://ugs.utm.my/wp-content/uploads/sites/8/2024/11/Final-Garis-Panduan-LI-UTM-2024-Senat.pdf",
+      "bytes": 371045,
+      "sha256": "7e515dc9170713a25ee0e6ea6ef0ed6123f1e0d787c260f28d45a2b4be04514c",
+      "saved_path": "data\\raw\\ugs\\Final-Garis-Panduan-LI-UTM-2024-Senat.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "ugs",
+      "faculty": "University-Wide (School of Undergraduate Studies)",
+      "link_text": "",
+      "url": "https://ugs.utm.my/wp-content/uploads/sites/8/2025/04/TERMS-OF-REFERENCE-ToR-–-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf",
+      "filename": "TERMS-OF-REFERENCE-ToR-–-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf",
+      "status_code": 200,
+      "final_url": "https://ugs.utm.my/wp-content/uploads/sites/8/2025/04/TERMS-OF-REFERENCE-ToR-%E2%80%93-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf",
+      "bytes": 6638325,
+      "sha256": "28854a1920b0e669f5590f091d00e00e19d9c7c428e1b302cc3425766ae1067b",
+      "saved_path": "data\\raw\\ugs\\TERMS-OF-REFERENCE-ToR-–-INTERNATIONAL-INTERNSHIP-PROGRAM-1.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "[English]",
+      "url": "https://fke.utm.my/wp-content/uploads/2024/03/Student-Manual-english.pdf",
+      "filename": "Student-Manual-english.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2024/03/Student-Manual-english.pdf",
+      "bytes": 1517187,
+      "sha256": "bdc8fd1c9c9babfe48e7116657add26a585f4f8a3605bdd3e6eebe3fc42fa2f5",
+      "saved_path": "data\\raw\\fke\\Student-Manual-english.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "[Malay]",
+      "url": "https://fke.utm.my/wp-content/uploads/2024/03/Manual-Pelajar-malay.pdf",
+      "filename": "Manual-Pelajar-malay.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2024/03/Manual-Pelajar-malay.pdf",
+      "bytes": 1552151,
+      "sha256": "2c7bf1075859204b33a3933f1887ae47101ff3c3f52357084007a7226494a9da",
+      "saved_path": "data\\raw\\fke\\Manual-Pelajar-malay.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "New Company Proposal Application (Latest)",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/04/1.-Application-of-Potential-Company-for-Industrial-Training.pdf",
+      "filename": "1.-Application-of-Potential-Company-for-Industrial-Training.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/04/1.-Application-of-Potential-Company-for-Industrial-Training.pdf",
+      "bytes": 184673,
+      "sha256": "58e2573d4c51f30ead9501a58504fc887eef738775217b9939d31a2f0333000b",
+      "saved_path": "data\\raw\\fke\\1.-Application-of-Potential-Company-for-Industrial-Training.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "LTR01",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/02/LTR01-Application-Letter.pdf",
+      "filename": "LTR01-Application-Letter.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/02/LTR01-Application-Letter.pdf",
+      "bytes": 298743,
+      "sha256": "1aa51b069675f15df3f942911795eefb7fef1bb5dda9119e618855e148be0da2",
+      "saved_path": "data\\raw\\fke\\LTR01-Application-Letter.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "MS01",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/02/LI-Planning-Procedure_6Jun2013.pdf",
+      "filename": "LI-Planning-Procedure_6Jun2013.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/02/LI-Planning-Procedure_6Jun2013.pdf",
+      "bytes": 103185,
+      "sha256": "c75e1fb38f8d0a8ebad0bc43792bc81f8c968b8a5c206b0dd9a9b1605e8f24b7",
+      "saved_path": "data\\raw\\fke\\LI-Planning-Procedure_6Jun2013.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "MS02",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-I-5-Dec-2017.pdf",
+      "filename": "Taklimat-LI-Part-I-5-Dec-2017.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-I-5-Dec-2017.pdf",
+      "bytes": 729443,
+      "sha256": "4d1df5b64fa7db1bb976905c2c4f5a75689fcd9382e6283bf1472d02dae21c2b",
+      "saved_path": "data\\raw\\fke\\Taklimat-LI-Part-I-5-Dec-2017.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "MS03",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-II-22-May-2018.pdf",
+      "filename": "Taklimat-LI-Part-II-22-May-2018.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/02/Taklimat-LI-Part-II-22-May-2018.pdf",
+      "bytes": 895632,
+      "sha256": "ae1fab0761847aa9df1762ad26553b23d21eaa0a357b5176c45a5591e6067098",
+      "saved_path": "data\\raw\\fke\\Taklimat-LI-Part-II-22-May-2018.pdf",
+      "status": "downloaded"
+    },
+    {
+      "faculty_dir": "fke",
+      "faculty": "Faculty of Electrical Engineering",
+      "link_text": "MS05",
+      "url": "https://fke.utm.my/wp-content/uploads/2023/02/MS05-Carta-Alir-Lawatan-Penyelia-Fakulti-16173.pdf",
+      "filename": "MS05-Carta-Alir-Lawatan-Penyelia-Fakulti-16173.pdf",
+      "status_code": 200,
+      "final_url": "https://fke.utm.my/wp-content/uploads/2023/02/MS05-Carta-Alir-Lawatan-Penyelia-Fakulti-16173.pdf",
+      "bytes": 400627,
+      "sha256": "d207fec8355af2f747d05ec65e3f850c1588369b8e9918a68365c313088661dd",
+      "saved_path": "data\\raw\\fke\\MS05-Carta-Alir-Lawatan-Penyelia-Fakulti-16173.pdf",
+      "status": "downloaded"
+    }
+  ],
+  "restricted_sources": [
+    {
+      "id": "EXT-SCRIBD-001",
+      "faculty": "Third-Party / Unverified",
+      "url": "https://www.scribd.com/document/981369342/Industrial-Training-Report-Guidelines-UTM",
+      "note": "Third-party platform (Scribd); do not bypass paywalls or download restrictions.",
+      "status": "excluded_third_party_restricted",
+      "downloaded": false
+    }
+  ]
+}

@@ -74,3 +74,10 @@ The most difficult Responsible AI requirement to enforce technically is **RAI4 (
 While simple factual boundaries can be verified using keyword filters, students rarely describe sensitive workplace problems (e.g., subtle exploitation, hostile working environments, or coercion by an employer) using predictable keywords like "harassment". Distinguishing between a routine academic query (e.g., *"My supervisor assigned me 50 hours of work this week, is this permitted?"*) and an escalating labor violation requiring faculty intervention requires nuanced semantic interpretation. 
 
 If the threshold is set too loosely, the system frustrates students by falsely refusing benign policy questions. If set too strictly, it risks offering generic textual advice when immediate human intervention is necessary. Enforcing this balance requires careful dual-stage classification combining semantic intent detection with deterministic safety fallbacks.
+
+
+---
+
+## V2 Requirements Alignment Note (Updated 2026-11-21)
+* **FR1 / FR2 / FR4 Update:** Eligibility thresholds (80 vs. 90 vs. 99 credits; 12 vs. 20 weeks) are now strictly isolated per faculty rather than treated as universal. Digital portal guidance covers **`@studentportal` ITS** university-wide while preserving FC `PRISMS` references with a coordinator-verification note.
+* **Verified Evaluation Status:** All functional, latency (NFR1: p90 = 5.63 ms), correctness (NFR2: 95.0%), citation (RAI1: 100% completeness & match), and distress-escalation (RAI4) requirements have been implemented in `src/` and tested via `evaluation/run_evaluation.py`. See [`docs/rag_evaluation_report.md`](rag_evaluation_report.md).

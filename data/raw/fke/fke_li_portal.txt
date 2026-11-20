@@ -1,0 +1,279 @@
+SOURCE URL: https://fke.utm.my/li/
+PAGE TITLE: Latihan Industri | Faculty of Electrical Engineering UTM
+
+INDUSTRIAL TRAINING
+ITS Manual
+We
+lcome note
+|
+Introduction
+|
+Organization
+|
+Announcements
+|
+Procedures
+|
+Information
+|
+Downloads
+|
+Links
+|
+ITS
+|
+Template Thesis
+|
+Contacts
+[English]
+[Malay]
+Dr. Zuraimy bin Adzis
+LI FKE Coordinator
+zuraimy@utm.my
+Welcome
+On behalf of the Dean I welcome all students to this website. Since we seek knowledge and experience in this degree programme, internship is embedded as 6 credits and as a 12 week attachment to the industry in a technical role. Exposure to the working environment will give you first hand experience on how to interact with other people, machines, working environment, and utmost importance of keeping time at the workplace. The faculty also hopes that interns can appreciate the fact on how the industry be sustainable while at the same time cater the needs of its employees which is the most valuable asset of any organisation.
+To make this welcoming speech be short and simple, the respective departments in this Faculty would like all interns to pick up the necessary technical knowledge that would be able to help in finding an industrial issue or problem to be converted to your FYP. Hence the need to do your internship before your final year is clearly for your own benefit, rather than the Faculty.
+In the interest of the programme, let us make this internship a success for every student. The Faculty, through the committee will do our best to facilitate.
+Best regards.
+Faculty Vision
+A Globally Renowned Faculty Providing World-Class Education and Research in Electrical Engineering.
+Faculty Mission
+To Develop Holistic Talents in Electrical Engineering and Prosper Lives Through Knowledge and Innovative Technologies.
+Client Charter
+Committed and always striving to serve each customer by:
+Offering quality academic programs and efficient academic management in a conducive environment.
+Strengthening the services for the development and well-being of students holistically.
+Empower high-impact research and development with efficient management practices.
+Improve cooperation and involvement with stakeholders.
+Introduction
+What Is an Internship?
+An internship is an important stage in a student’s academic journey, providing an opportunity to gain practical experience and become familiar with the expectations of the professional working environment. It serves as a bridge between academic learning and professional practice, allowing students to apply the knowledge and technical skills acquired during their studies to real-world engineering challenges. The experience gained during an internship can also help students identify their career interests, strengthen their professional competencies, and improve their readiness for future employment.
+An internship is a structured cooperative learning activity that provides students with professional, non-classroom experience relevant to their academic background and career aspirations. Unlike a part-time job, an internship is an academic course designed to achieve specific learning outcomes. It enables students to develop technical expertise alongside essential professional skills, including communication, teamwork, critical thinking, problem-solving, time management, and workplace ethics.
+At the Faculty of Electrical Engineering (FKE), Universiti Teknologi Malaysia (UTM), the internship is an integral component of the undergraduate programmes listed below:
+SKEEH
+– Bachelor of Electrical Engineering with Honours
+SKEEL
+– Bachelor of Electrical-Electronics Engineering
+SKEEM
+– Bachelor of Electrical-Mechatronics Engineering
+SKEEB
+– Bachelor of Biomedical Engineering
+The internship carries 5 academic credits and has a duration of 10 weeks. During this period, students are required to undergo industrial training at an approved organisation, where they are exposed to actual workplace practices, organisational operations, engineering activities, and professional responsibilities relevant to their respective fields of study.
+Throughout the internship, students are expected to participate actively in assigned tasks, apply engineering principles to practical situations, demonstrate professional conduct, and learn from experienced industry personnel. This experience provides valuable insights into the relationship between theoretical concepts and their practical applications while helping students understand the technical, ethical, and professional expectations of the engineering industry.
+Ultimately, the internship is more than a requirement for academic completion; it is an opportunity for students to develop the competence, confidence, and professional mindset necessary for their transition from university to the workplace.
+Course Information
+What are the advantages of internships?
+Learn new skills through practical work experience.
+Combine academic knowledge with hands-on work experience.
+Gain insights and networking for better job marketability after graduation.
+Doing an internship will help you to avoid that common dilemma that many students face after graduation. When companies are looking to hire, you will not be turned away because you do not have the practical work experience that many employers are looking for. In other words, you will have a little more ammunition to run on. In such a competitive market, making sure you are on the top is a priority. (Source: Career and Placement Service, Concordia University)
+Organization
+Announcements
+Jobs and Careers
+CH3 (Main Project) in Industrial Training Report
+CH3 (Main Project) in Industrial Training Report –
+It is an exercise to prepare you to undertake Final Year Project (FYP). You will apply the same exact procedure in this project as it is in FYP. The difference is LI project is very short and much simpler. Your CH3 (Main Project) is to be evaluated on your ability to
+Define the problem – why you want to do the project. There must be a background issue you want to solve. Once you know the problem, you can write title for CH3 (Main Project)
+Set the purpose – what you want to solve
+Identify method you want to employ in order to solve the problem
+Result – what do you get from your experiment or investigation or further reading, and comparison of data. The result must be presented in figure and table or flowchart or improved drawing.
+Without these, it is hardly that your project bears meaningful result
+Conclude the finding – conclusions are derived from your result.
+Some may ask what are hints in order to come up with title of CH3.
+I hope the followings will help you to identify the title for CH3
+Compiling short tasks of the same nature you have undertaken at the company, and check if there is anything you can work further
+Look at certain technical problem at the company through, and conduct experiments (if it is possible) to solve it
+Look at certain technical problem at the company, and find ways to solve it through further
+reading on the matter from books, conferences, journals and internet. Compile the data and
+do the comparison, for example.
+Log Book
+***Please record
+LI activities in English
+in your ITS log book. For someone, it may be quite tough for the beginning, and I am confident you will master it well as you go along the training. Learn to write in English also helps you prepare your
+Industrial Training Report for it must be in English
+Your ITS log book is your
+notebook
+– it should contain sketches of system, circuit and flow of process, points jotted down during discussions, important points you notice in your daily training, and problem or issue you notice that you need to discuss with your supervisor or someone who knows better at at your place of training
+Since it is your notebook, your ITS log book need to be filled up at
+all times during your training.
+Please have your training supervisor to endorse your ITS log book. Some supervisor prefers to endorse it weekly, and some prefers it once in a while. Your supervisor will have access to check your ITS log book online.
+TEMPLATE THESIS UTM FOR LI REPORT WRITING
+Download [
+here
+]
+Procedures
+ISO Procedures Documents
+FKE Industrial Training Procedure
+Prosidur Latihan Industri FKE (untuk pelajar)
+PK-UTM-FKE-(O)-11
+: Prosedur Pengurusan Latihan Industri
+PK-UTM-FKE-(O)-12
+: Prosedur Pengendalian Latihan Industri
+INDUSTRIAL TRAINING PROCEDURES [
+download
+]
+Before Training
+Do Pregistration in ITS.
+Choose company from the list in ITS.
+Contact the company for availability.
+Get signed Application Letter from Program Coordinator.
+Send Application Letter with Company Reply Form.
+If the application is accepted, prepare any materials, if asked by the
+company.
+Register in AIMS
+Prepare LP2, LP3 &amp; LP4 and Indemnity Letter.
+During Training
+Wear proper attire, self-discipline, and follow all rules and
+regulations of the company.
+You are now a representative of UTM, behave well.
+Fill the LP2 form, keep a copy for your own reference, send by mail
+to FKE, and email a pdf copy to latihanindustri@fke.utm.my. Name
+your file LP2 &lt;Your name&gt; &lt;Company name in italics&gt; &lt;State&gt; for
+example: LP2 Muhammad Hamdan bin Yusof Syarikat Elektrik
+Bersatu Sabah.pdf. Do this in week 1.
+Discuss with the industrial supervisor to fill in the LP3 form.
+Record your daily technical activities in the eLog Book in ITS. If you
+keep a notebook, you can upload the daily activities or any
+documentation onto the eLog Book. The industrial supervisor need
+to endorse your eLog Book online.
+The faculty supervisor will visit after week 7. Arrange for
+appointment and necessary documentation. Prepare LP3, LP4, LP5,
+LP6 and LP7 forms. However, the faculty supervisor need only to
+collect LP3 form. The rest can be completed and handed to the
+faculty supervisor after you finished your training.
+After Training
+Complete the Industrial Training Report.
+You are advised to prepare 3 copies of the report. One for FKE, one
+for the industry, and one for you. This document is valuable for job
+application.
+Submit the completed LP4, LP5, LP6, and LP7 forms together with
+the report to the faculty supervisor who visited you at the end of
+week 13.
+SEBELUM LATIHAN
+Pastikan anda telah mendaftar subjek Latihan Industri SE*4925 di AIMS atau melalui Pejabat Fakulti.
+Hubungi syarikat untuk pengesahan penerimaan tempat LI.
+Dapatkan maklumat “Contact Person” syarikat (Nama dan no. talipon).
+Pastikan anda tahu lokasi tempat LI.
+Sediakan bahan-bahan yang diperlukan oleh syarikat jika diminta.
+Beli Buku Log LI (bersama poskad jawapan) di Pejabat Fakulti.
+Sediakan Borang FKE-LP2, LP3 & LP4 serta surat “Indemnity” dan surat tawaran LI.
+SEMASA LATIHAN
+Berpakaian kemas, berdisiplin dan mematuhi segala peraturan syarikat serta menjaga nama baik UTM.
+Isi borang FKE-LP2 dengan lengkap dan pos ke FKE bersama poskad jawapan (paling lewat – minggu ke 2). Bincang dengan Penyelia Industri untuk mengisi borang FKE-LP3.
+Penyelia FKE datang melawat. Atur tarikh temujanji.
+Serah borang FKE-LP4 kepada Penyelia Industri untuk diisi (paling lewat – minggu ke 8). Ambil kembali borang FKE-LP4 (yang sudah diisi) daripada Penyelia Industri pada minggu ke 10.
+SELEPAS LATIHAN
+Siapkan Laporan Akhir Latihan Industri mengikut format yang ditetapkan sepertimana yang tercatat pada maklumat dalam Log Book.
+Serahkan borang FKE-LP3, FKE-LP4 (yang telah diisi) dan Laporan Industri kepada Penyelia FKE (yang melawat anda) selewat-lewatnya pada minggu ke 13.
+Anda dinasihati menyediakan 3 salinan Laporan LI. Satu salinan untuk FKE, satu salinan kepada pihak industri dan satu salinan lagi adalah untuk simpanan anda. Laporan Industri merupakan komponen penting dalam permohonan kerja nanti.
+Information
+Course Information
+Downloads
+**Forms
+Please be informed that the relevant forms have been migrated to MyAIMS. Supervisors will have access to the forms only where they are required for assessment and evaluation purposes.
+The Download function is provided for students’ reference and preparation, particularly to facilitate their understanding of the assessment rubric, evaluation criteria, and mark distribution.
+APPLICATION
+TEMPLATES
+FORMS
+MISCELLANEOUS
+New Company Proposal Application (Latest)
+TEMPLATES
+LTR01
+Application Letter (English)
+FKE-LP1A
+Reply Form from the company*
+LTR03
+Sample CV (Resume)
+Attention
+* LTR02 and LTR03 (Resume) must be submitted to the company together with the application letter (LTR01)
+Template Thesis
+Template Thesis UTM for LI Report Writing
+FORMS
+FKE-LP1 (2009)
+Maklumat Peribadi
+(Equivalent to registration in ITS)
+FKE-LP2 (2022)
+Maklumat Penempatan Latihan Industri
+(Industrial Training Placement Information)
+FKE-LP2A (2022)
+Maklumat Penempatan Latihan Industri
+(Industrial Training Placement Information)
+FKE-LP3 (2022)
+Jadual Kerja Latihan Industri
+(Industrial Training Schedule)
+FKE-LP4 (2022)
+Laporan Kemajuan Latihan Industri
+(Progress Report – Evaluated by Industrial Supervisor)
+FKE-LP4A (2022)
+Pengesahan Buku Log
+(Logbook Endorsement – Endorsed by Industrial Supervisor)
+FKE-LP5 (2022)
+Penilaian Latihan Industri
+(Industrial Training Visit Evaluation)
+FKE-LP6 (2022)
+Penilaian Laporan Latihan Industri
+(Industrial Training Report Evaluation)
+FKE-LP7 (2022)
+Maklumbalas Pelajar Selepas Latihan
+(Trainees Feedback Form)
+MISCELLANEOUS
+GARIS PANDUAN
+Garis Panduan Latihan Industri UTM
+(UTM Industrial Training Guidelines)
+MS01
+Prosidur Perancangan LI
+(Industrial Training Planning Procedures)
+MS02
+Taklimat Awal
+(First LI Briefing : 05 December 2017)
+MS03
+Taklimat Akhir
+(Final Briefing : 22 May 2018)
+SKE LP2 2017
+Status Penerimaan Salinan Asal Borang LP2 sehingga 18 June 2017
+(Status Receipt of Original LP2 Form as of 18 June 2017)
+MS05
+Prosidur Lawatan Penyelia FKE
+(Visiting Procedures for FKE Faculty Supervisor)
+MS06
+Format Penulisan Laporan Industri – Manual Thesis UTM 2015
+(Industrial Training Report – Format for Paging, Paragraph, Structure etc.)
+Declaration Form
+Declaration Form
+(Declaration Of Undergraduate Industrial Training Report And Copyright)
+Links
+Global Placement.com
+: Recruiting students and companies worldwide.
+JobMarket.com.my
+is a recruitment portal where jobseekers wishing to seek better opportunities or advance their careers.
+JobStreet.com
+: Your career destination.
+Star Jobs On-line
+: Matching skills to jobs.
+Graduan
+: Careers and employment for Malaysian fresh graduates.
+eJobsvacancy.com
+: Malaysia Electronic Jobs Vacancy.
+Malaysia Jobs Directory
+provides you with career and human resources links.
+Industrial Training Systems (ITS-UTM)
+Welcome to ITS-UTM
+Industrial Training Systems (ITS-UTM) is a web based application system which is developed to manage the industrial training process in Universiti Teknologi Malaysia (UTM). Industrial training refers to placement of students for at least ten weeks in the industry or organisation in order for them to apply their theoretical knowledge in the actual career world. Industrial training is one of the main components in the curriculum. Students must pass the industrial training in order to be awarded the certificate. During industrial training, students will be placed at selected organisations for a predetermined duration of time in order for them to obtain exposure to the career world and also for them to be able to relate what has been learned theoretically with the real application. At the same time, students will be equipped with the necessary preparation for working life such as the exposure to numerous aspects of social, interaction, cultural and work processes in career world.
+ITS Link
+Contact Us
+General Line
+Tel: +6 07-553 3333
+Email:
+latihanindustri@fke.utm.my
+Mailing Address
+Faculty of Electrical Engineering, P19a,
+Universiti Teknologi Malaysia,
+81310 Johor Bahru,
+Johor, Malaysia.
+Office Hours
+Mon – Fri (9:00 am – 4:30 pm)
+Website
+: fke.utm.my/li
+Campus Map
+.
+.

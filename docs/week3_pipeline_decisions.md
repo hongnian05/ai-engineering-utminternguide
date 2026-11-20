@@ -83,3 +83,10 @@ Each pipeline stage enforces an explicit stage contract to guarantee the "Fail-F
 The most critical pipeline stage contract is **Stage 4 (Prepare / Text Segmentation)** linked to **Stage 5 (Validation)**. In a Retrieval-Augmented Generation system, the retrieval engine cannot retrieve what the data preparation pipeline destroyed. If the text splitter naively slices through a prerequisite rule (e.g., separating the 80 credit hour threshold from the 2.00 CGPA requirement across two different chunks), the downstream LLM will receive fragmented context and inevitably produce an incorrect or ungrounded answer, directly violating NFR2.
 
 During data preparation, the most important trade-off accepted was choosing **Paragraph-Aware Chunking over Fixed-Size Chunking**. Fixed-size chunking produced fewer, predictably uniform chunks (12 chunks of 500 characters) that were simple to index. However, it regularly severed numbered lists and policy tables. We accepted the trade-off of **higher chunk count variance** (21 chunks of varying lengths) in exchange for **complete semantic cohesion and bullet-point preservation**. This deliberate trade-off guarantees that every retrieved chunk represents an authoritative, stand-alone institutional policy clause.
+
+
+---
+
+## V2 Pipeline Decisions Update Note (Updated 2026-11-21)
+* **Chunking & Page Tracking Upgrade:** The Week 3 500-character fallback splitter caused mid-word splits (`Ca` / `reer Centre.`) and dropped PDF page numbers (`page: null`). In V2 (`src/extraction.py` and `src/chunking.py`), the pipeline extracts page-by-page with PyMuPDF + `pdfplumber`, preserves 1-indexed `page_number`, splits on section and sentence boundaries, and merges tiny fragments.
+* **Complete V2 Validation & Lineage:** See [`docs/data_quality_report.md`](data_quality_report.md) and [`data/pipeline_manifest.json`](../data/pipeline_manifest.json).

@@ -1,0 +1,31 @@
+{
+  "built_at_utc": "2026-11-20T18:00:29.205371+00:00",
+  "total_vectors": 406,
+  "vector_dim": 48667,
+  "faculties": [
+    "Faculty of Chemical and Energy Engineering",
+    "Faculty of Civil Engineering",
+    "Faculty of Computing",
+    "Faculty of Electrical Engineering",
+    "Faculty of Mechanical Engineering",
+    "Malaysia-Japan International Institute of Technology",
+    "University-Wide"
+  ],
+  "sources": [
+    "CIVIL-GUIDE-2017-001",
+    "FC-REPO-2023-001",
+    "FKE-BRIEF-1-2017",
+    "FKE-BRIEF-2-2018",
+    "FKE-FORM-001",
+    "FKE-ITS-MS-2024-001",
+    "FKE-WEB-001",
+    "FKM-ITS-2023-001",
+    "FKM-WEB-001",
+    "FKT-WEB-001",
+    "MJIIT-GUIDE-2015-001",
+    "UTM-FKT-2012-001",
+    "UTM-REG-ED16-001",
+    "UTM-UGS-2024-001",
+    "UTM-UGS-2025-002"
+  ]
+}

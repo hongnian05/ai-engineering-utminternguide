@@ -92,3 +92,10 @@ Unlike EduAdvisor (which operates as a general course catalog and prerequisite a
 - **Risk 3 — Inappropriate Guidance on High-Stakes Workplace Safety / Grievances:**
   - *Who is harmed & how:* A distressed student facing workplace exploitation, unsafe working conditions, or harassment submits an inquiry, and an automated system provides generic or misleading dispute advice, endangering student well-being.
   - *Engineering Mitigation:* Input guardrails with distress/harassment intent detection that immediately bypass the LLM and output official emergency contact information for the UTM Faculty Industrial Training Coordinator, UTM Counselling Centre, and University Legal Unit.
+
+
+---
+
+## V2 Project Alignment Note (Updated 2026-11-21)
+* **Scope Expansion:** In the V2 implementation, UTM-InternGuide was expanded from a Faculty of Computing prototype to a **multi-faculty RAG system** covering University-Wide (UGS 2024 Senate Guideline), FC, FKT, FKE, Civil Engineering, MJIIT, and FKM with strict faculty metadata isolation.
+* **System Terminology Clarification:** While this Week 1 scoping document referenced `PRISMS`, subsequent verification of official UTM-wide and faculty documents confirmed that the university-wide integrated portal is **`ITS` (`@studentportal` ITS)**. See [`docs/source_conflicts_and_decisions.md`](source_conflicts_and_decisions.md).

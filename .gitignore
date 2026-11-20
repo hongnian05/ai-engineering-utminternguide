@@ -1,6 +1,7 @@
 # Environment and API keys
 .env
 .env.*
+!.env.example
 *.env
 secrets.json
 api_keys.txt
@@ -23,8 +24,14 @@ ENV/
 chroma_db/
 *.chroma
 faiss_index/
+data/vector_store/*.pkl
 .cache/
 tmp/
+
+# Downloaded official UTM PDFs & HTML snapshots (institutional copyright — reproduce via src/collect_sources.py)
+data/raw/*/*.pdf
+data/raw/*/*.html
+data/cleaned/*.txt
 
 # OS metadata
 .DS_Store

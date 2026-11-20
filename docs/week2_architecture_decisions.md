@@ -85,3 +85,10 @@ The most critical architecture decision was **"Include Dynamic Knowledge Access"
 The decision forced a fundamental trade-off between **System Simplicity & Latency** versus **Factual Groundedness & Auditability**. The simple baseline (direct model invocation) was faster and required zero external dependencies, but suffered from unconstrained hallucination on specialized UTM credit regulations. 
 
 By introducing a dynamic knowledge access component, we accepted additional system complexity (document parsing, chunking, and similarity search) and approximately $400\text{--}600\text{ ms}$ of retrieval latency overhead. However, this trade-off is essential: in university academic administration, an ungrounded or speculative answer can jeopardize a student's graduation. Groundedness and verifiable citations are non-negotiable requirements that fully justify the additional architectural complexity.
+
+
+---
+
+## V2 Architecture Implementation Note (Updated 2026-11-21)
+* The V1 conceptual architecture documented above has been materialized into modular Python components under `src/` (`ingestion.py`, `extraction.py`, `cleaning.py`, `metadata.py`, `chunking.py`, `validation.py`, `embeddings.py`, `vector_store.py`, `retriever.py`, `citations.py`, `generator.py`, `chatbot.py`, `pipeline.py`).
+* **Architectural Extensions Added in V2:** (1) Multi-faculty metadata filtering and faculty-clarification guardrails; (2) Bilingual English/Bahasa Melayu hybrid word + subword TF-IDF retrieval; (3) Transparent local extractive grounded mode when no external LLM API key is configured. See [`docs/project_audit.md`](project_audit.md).
